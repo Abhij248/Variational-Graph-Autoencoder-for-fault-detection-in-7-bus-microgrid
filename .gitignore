@@ -23,3 +23,5 @@ data/
 # Ignore any other specific files
 *.DS_Store
 *.bak
+
+*.ipynb
