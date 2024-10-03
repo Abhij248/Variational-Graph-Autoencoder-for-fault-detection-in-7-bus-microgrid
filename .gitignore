@@ -1,0 +1,25 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore compiled files
+*.so
+*.egg-info/
+
+# Ignore data files
+data/
+*.csv
+
+# Ignore log files
+*.log
+
+# Ignore any other specific files
+*.DS_Store
+*.bak
